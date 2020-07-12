@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url(image/watch.jpg);
+    color: red;
+    font-weight: bold;
+    font-size: 30pt;
+}
+h1{
+    color: blue;
+    display: inline-block;
+    width: 100px;
+    background-color: grey;
+}
+button{
+    height: 60px;
+    width: 130px;
+    font-size: 23pt;
+    border-radius: 0px 10px 10px 0px gray;
+}
+button:hover{
+    color: greenyellow;
+    background-color: rgba(32, 218, 79, 0.514);
+}
